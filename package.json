@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/firebase-push-notifications": "file:./modules/firebase-push-notifications",
     "@modules/push-notifications": "file:./modules/push-notifications/",
+    "@modules/social-login": "file:./modules/social-login/",
     "@react-native-firebase/app": "^18.3.0",
     "@react-native-firebase/messaging": "^18.3.0",
     "@react-native-masked-view/masked-view": "^0.2.9",
